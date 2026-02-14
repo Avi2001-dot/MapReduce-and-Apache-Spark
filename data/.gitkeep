@@ -1,0 +1,3 @@
+# This directory is for storing datasets
+# Download the Project Gutenberg dataset (D184MB.zip) and extract here
+# The 200.txt file should be placed here for MapReduce testing

@@ -1,0 +1,12 @@
+# PySpark Analysis Dependencies
+# CSL7110 Big Data Frameworks Assignment
+
+# Apache Spark Python API
+pyspark>=3.0.0
+
+# Property-based testing (optional)
+hypothesis>=6.0.0
+
+# Data manipulation (optional, for local testing)
+pandas>=1.0.0
+numpy>=1.19.0
