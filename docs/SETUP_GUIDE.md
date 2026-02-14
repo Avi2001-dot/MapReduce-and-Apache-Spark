@@ -281,7 +281,7 @@ mkdir -p data
 
 # Download the Project Gutenberg dataset
 # Option 1: If you have a direct link
-wget -O data/D184MB.zip "YOUR_DOWNLOAD_LINK_HERE"
+wget -O data/D184MB.zip "https://zenodo.org/records/3360392/files/D184MB.zip?download=1"
 
 # Option 2: Download manually from your course materials
 # Then copy to data/ folder
